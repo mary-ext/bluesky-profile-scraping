@@ -3,15 +3,15 @@
   "handle": "mary.my.id",
   "displayName": "mary🐇",
   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4@jpeg",
-  "labels": [],
-  "indexedAt": "2024-03-18T06:12:33.709Z",
-  "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
-  "followersCount": 1720,
-  "followsCount": 177,
-  "postsCount": 9246,
   "associated": {
     "lists": 9,
     "feedgens": 5,
     "labeler": false
-  }
+  },
+  "labels": [],
+  "indexedAt": "2024-03-18T06:12:33.709Z",
+  "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
+  "followersCount": 1723,
+  "followsCount": 177,
+  "postsCount": 9278
 }
