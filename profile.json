@@ -1,7 +1,7 @@
 {
   "did": "did:plc:ia76kvnndjutgedggx2ibrem",
   "handle": "mary.my.id",
-  "displayName": "mary🐇 (bs/acc)",
+  "displayName": "mary🐇",
   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4@jpeg",
   "associated": {
     "lists": 9,
@@ -14,9 +14,9 @@
   },
   "labels": [],
   "createdAt": "0001-01-01T00:00:00.000Z",
-  "indexedAt": "2024-06-13T23:05:13.711Z",
+  "indexedAt": "2024-06-15T06:49:30.611Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
   "followersCount": 2107,
-  "followsCount": 231,
-  "postsCount": 3717
+  "followsCount": 232,
+  "postsCount": 3762
 }
