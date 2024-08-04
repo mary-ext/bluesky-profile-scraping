@@ -4,7 +4,7 @@
   "displayName": "mary🐇",
   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4@jpeg",
   "associated": {
-    "lists": 10,
+    "lists": 9,
     "feedgens": 6,
     "starterPacks": 0,
     "labeler": false,
@@ -16,7 +16,7 @@
   "createdAt": "2023-10-14T22:32:58.570Z",
   "indexedAt": "2024-08-02T13:58:03.473Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
-  "followersCount": 2284,
-  "followsCount": 286,
-  "postsCount": 2984
+  "followersCount": 2286,
+  "followsCount": 288,
+  "postsCount": 2991
 }
