@@ -14,9 +14,13 @@
   },
   "labels": [],
   "createdAt": "2023-10-14T22:32:58.570Z",
-  "indexedAt": "2024-09-25T09:54:40.308Z",
+  "indexedAt": "2024-09-27T22:56:57.507Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
-  "followersCount": 3136,
+  "followersCount": 3157,
   "followsCount": 380,
-  "postsCount": 4963
+  "postsCount": 4998,
+  "pinnedPost": {
+    "cid": "bafyreihcvvwo6ngyxodm47w6yqfhsof2h4ah6q5jisy6gdaafvf6vpnrra",
+    "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l3whw3gndr2r"
+  }
 }
