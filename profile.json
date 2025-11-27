@@ -17,11 +17,23 @@
   },
   "labels": [],
   "createdAt": "2023-10-14T22:32:58.570Z",
+  "verification": {
+    "verifications": [
+      {
+        "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+        "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m6kq52rlcw24",
+        "isValid": true,
+        "createdAt": "2025-11-26T20:48:50.255Z"
+      }
+    ],
+    "verifiedStatus": "valid",
+    "trustedVerifierStatus": "none"
+  },
   "indexedAt": "2025-10-28T12:46:48.751Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
-  "followersCount": 12808,
-  "followsCount": 927,
-  "postsCount": 14739,
+  "followersCount": 12839,
+  "followsCount": 929,
+  "postsCount": 14761,
   "pinnedPost": {
     "cid": "bafyreibluyqpqno2ixrhdkztquyarpug7k6t4en6ug7g3sw6fonzzmakbq",
     "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l6uo5yecnsu7"
