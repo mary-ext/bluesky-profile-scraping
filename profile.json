@@ -2,7 +2,7 @@
   "did": "did:plc:ia76kvnndjutgedggx2ibrem",
   "handle": "mary.my.id",
   "displayName": "mary🐇",
-  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4@jpeg",
+  "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4",
   "associated": {
     "lists": 10,
     "feedgens": 7,
@@ -30,10 +30,10 @@
     "trustedVerifierStatus": "none"
   },
   "indexedAt": "2026-01-31T07:22:40.046Z",
-  "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri@jpeg",
-  "followersCount": 14658,
+  "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
+  "followersCount": 14673,
   "followsCount": 1015,
-  "postsCount": 16080,
+  "postsCount": 16102,
   "pinnedPost": {
     "cid": "bafyreibluyqpqno2ixrhdkztquyarpug7k6t4en6ug7g3sw6fonzzmakbq",
     "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l6uo5yecnsu7"
