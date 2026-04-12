@@ -5,7 +5,7 @@
   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4",
   "associated": {
     "lists": 10,
-    "feedgens": 7,
+    "feedgens": 9,
     "starterPacks": 0,
     "labeler": false,
     "chat": {
@@ -29,11 +29,11 @@
     "verifiedStatus": "valid",
     "trustedVerifierStatus": "none"
   },
-  "indexedAt": "2026-04-05T21:55:10.356Z",
+  "indexedAt": "2026-04-11T05:20:51.751Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
-  "followersCount": 15171,
+  "followersCount": 15186,
   "followsCount": 1031,
-  "postsCount": 16424,
+  "postsCount": 16434,
   "pinnedPost": {
     "cid": "bafyreibluyqpqno2ixrhdkztquyarpug7k6t4en6ug7g3sw6fonzzmakbq",
     "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l6uo5yecnsu7"
