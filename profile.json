@@ -2,6 +2,7 @@
   "did": "did:plc:ia76kvnndjutgedggx2ibrem",
   "handle": "mary.my.id",
   "displayName": "mary🐇",
+  "pronouns": "she/it",
   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4",
   "associated": {
     "lists": 10,
@@ -29,11 +30,11 @@
     "verifiedStatus": "valid",
     "trustedVerifierStatus": "none"
   },
-  "indexedAt": "2026-04-11T05:20:51.751Z",
+  "indexedAt": "2026-04-24T11:30:06.048Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
-  "followersCount": 15309,
-  "followsCount": 1055,
-  "postsCount": 16558,
+  "followersCount": 15317,
+  "followsCount": 1057,
+  "postsCount": 16578,
   "pinnedPost": {
     "cid": "bafyreibluyqpqno2ixrhdkztquyarpug7k6t4en6ug7g3sw6fonzzmakbq",
     "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.feed.post/3l6uo5yecnsu7"
