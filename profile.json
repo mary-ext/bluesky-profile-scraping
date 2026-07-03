@@ -10,7 +10,8 @@
     "starterPacks": 2,
     "labeler": false,
     "chat": {
-      "allowIncoming": "all"
+      "allowIncoming": "none",
+      "allowGroupInvites": "none"
     },
     "activitySubscription": {
       "allowSubscriptions": "followers"
@@ -32,9 +33,9 @@
     "verifiedStatus": "valid",
     "trustedVerifierStatus": "none"
   },
-  "indexedAt": "2026-06-29T10:59:50.368Z",
+  "indexedAt": "2026-07-02T04:35:53.423Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
-  "followersCount": 16575,
-  "followsCount": 1123,
-  "postsCount": 17171
+  "followersCount": 16593,
+  "followsCount": 1124,
+  "postsCount": 17187
 }
