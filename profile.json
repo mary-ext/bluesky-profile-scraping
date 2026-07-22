@@ -5,9 +5,9 @@
   "pronouns": "she/it",
   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreiesgyo7ukzqhs5mmtulvovzrbbru7ztvopwdwfsvllu553qgfmxd4",
   "associated": {
-    "lists": 11,
+    "lists": 9,
     "feedgens": 10,
-    "starterPacks": 2,
+    "starterPacks": 0,
     "labeler": false,
     "chat": {
       "allowIncoming": "all",
@@ -35,7 +35,7 @@
   },
   "indexedAt": "2026-07-14T04:45:18.467Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
-  "followersCount": 16799,
+  "followersCount": 16802,
   "followsCount": 1150,
-  "postsCount": 17434
+  "postsCount": 17446
 }
