@@ -33,12 +33,19 @@
     "verifiedStatus": "valid",
     "trustedVerifierStatus": "none"
   },
-  "indexedAt": "2026-10-23T03:11:57.037Z",
+  "indexedAt": "2026-10-23T06:03:46.339Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
-  "followersCount": 18219,
-  "followsCount": 1254,
-  "postsCount": 18510,
+  "followersCount": 18229,
+  "followsCount": 1255,
+  "postsCount": 18522,
   "links": [
+    {
+      "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.actor.link/3myjiyvus6v25",
+      "cid": "bafyreiafrqwwv2fq2emicwwrgf7a3ykvy4vkbqcty2yzfdvzy3j46fai54",
+      "url": "https://pronoun.is/she?or=it",
+      "title": "she/it",
+      "labels": []
+    },
     {
       "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.actor.link/3myj6cbuufq2p",
       "cid": "bafyreigxxit22t32awsqrd4sgdv4b4np2jbs7qj3kq3jmxvox5ipnusvv4",
@@ -47,8 +54,8 @@
       "labels": []
     },
     {
-      "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.actor.link/3myj7fvkugu25",
-      "cid": "bafyreiajxvaybyxyfl3rnbilwaimgbbvyoz376kskfeqvyhhhglf2i54oe",
+      "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.actor.link/3myjahvoosu25",
+      "cid": "bafyreiaoltltf7zshrdxfm5r73c72lnipcqyrs2u4tclolbdrulyjbvkne",
       "url": "https://github.com/mary-ext",
       "title": "github",
       "icon": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreie6tiznvm2vey67ob4sjxpp67puvmlpt54yqypitvj4kzten7sloy",
