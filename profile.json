@@ -33,11 +33,11 @@
     "verifiedStatus": "valid",
     "trustedVerifierStatus": "none"
   },
-  "indexedAt": "2026-11-05T03:45:40.876Z",
+  "indexedAt": "2026-11-05T09:14:57.971Z",
   "banner": "https://cdn.bsky.app/img/banner/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreieyajjgsgtxiqf4mpn4l5k77xbvpj6kajokdf5ca2y27owy456vri",
-  "followersCount": 18369,
+  "followersCount": 18378,
   "followsCount": 1262,
-  "postsCount": 18605,
+  "postsCount": 18620,
   "links": [
     {
       "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.actor.link/3myj6cbuufq2p",
@@ -48,10 +48,9 @@
     },
     {
       "uri": "at://did:plc:ia76kvnndjutgedggx2ibrem/app.bsky.actor.link/3mzjqjg3o3sce",
-      "cid": "bafyreig332gd4bhvczepljnvlipupjhdl3btd4p3lii42swlk3fdo44sse",
-      "url": "https://github.com/mary-ext",
-      "title": "github",
-      "icon": "https://cdn.bsky.app/img/avatar/plain/did:plc:ia76kvnndjutgedggx2ibrem/bafkreie6tiznvm2vey67ob4sjxpp67puvmlpt54yqypitvj4kzten7sloy",
+      "cid": "bafyreihr2uytxg2avimc4pju7qfp7ljjlln7vy2bux6xwe7yfdsd6l2bry",
+      "url": "https://github.com/sponsors/mary-ext",
+      "title": "give me money please",
       "labels": []
     }
   ]
